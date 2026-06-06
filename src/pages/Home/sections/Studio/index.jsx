@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { homeImages } from '../../../../assets/homeImages'
-import { LOREM_LONG, LOREM_SHORT } from '../../../../content/copy'
+import { LOREM_SHORT } from '../../../../content/copy'
 import './Studio.scss'
 
 export default function Studio() {
